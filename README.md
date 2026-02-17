@@ -1,1 +1,1 @@
-# api_pw_at
+# публичный API https://api.sampleapis.com/futurama/questions
